@@ -1,6 +1,6 @@
 -👋 Hi, I’m @ahmedbanihanibh
 
--👀 I’m interested in developing data miner drivers and tools in the broadcast industry, particularly multicast troubleshoot tools.
+-👀 I’m interested in developing dataMiner drivers and tools in the broadcast industry, particularly multicast troubleshoot tools.
 
 -🌱 I’m currently learning advanced techniques in data analysis and machine learning to enhance my tool development skills.
 
