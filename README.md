@@ -8,4 +8,6 @@
 
 -📫 How to reach me: connect with me on LinkedIn -> https://www.linkedin.com/in/ahmed-b-28119b36
 
+-☕️ Buy me a coffee: https://buymeacoffee.com/ahmedbanihani
+
 ⚡ Fun fact: I once debugged a critical issue in a broadcast network while juggling three cups of coffee.
